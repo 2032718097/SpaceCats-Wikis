@@ -1,7 +1,7 @@
 {
    "offer": {
-      "itemKey": "minecraft:dirt",
-      "amount": 1,
+      "itemKey": "minecraft:diamond",
+      "amount": 60,
       "priceModifier": 0,
       "nbtTags": [
          {
@@ -12,8 +12,8 @@
       ]
    },
    "request": {
-      "itemKey": "minecraft:cobblestone",
-      "amount": 1,
+      "itemKey": "minecraft:netherite_ingot",
+      "amount": 6,
       "priceModifier": 0
    },
    "tradeExp": 3,
